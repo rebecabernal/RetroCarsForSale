@@ -1,0 +1,101 @@
+{   
+    "cars" :[
+        {
+            "id": 1,
+            "image":"./img/nissanSkylineR341999.jpg",
+            "brand": "Nissan Skyline R34 GTR ",
+            "price": "100.190€",
+            "year": "1999",
+            "description":"El legendario Nissan Skyline R34 GTR. Un coche que sube de valor a una velocidad asombrosa. No hay mejor manera de invertir su dinero que esta. Este es quizás uno de los R34 GTR Vspec con mejor precio del mercado en estos días. ¡Este modelo es LEGAL en EE. UU. y tiene muchas piezas costosas!"
+        },
+        {
+            "id": 2,
+            "image":"./img/mitsubishiEclipse1993.jpg",
+            "brand": "Mitsubishi Eclipse",
+            "price": "25.000€",
+            "year": "1993",
+            "description":"Coche clásico en buen estado. 150 c.v. 16 V. 2.0 GS. Motor inyección atmosférico. ITV pasada en vigor. Faros escamoteables con opción de elevarlos sin luces. ABS. Control de velocidad. Retrovisores electrónicos. Radio/cd/usb (antena extensible automáticamente). Tapa de potencia (posibilidad de conectarla). Sistema de aire acondicionado. Volante, pedales y cambio de marchas Sparco (se entrega también el volante original). Cámara de marcha atrás. Guardado en Garaje Particular y cuidado con mimo."
+        },
+        {
+            "id": 3,
+            "image":"./img/dodgeChallenger1970.png",
+            "brand": "Dodge Challenger",
+            "price": "75.000€",
+            "year": "1970",
+            "description":"Automático. Un verdadero icono, hermoso y completamente restaurado Dodge Challenger de 1970. Durante la restauración, este coche fue completamente reconstruido en versión R/T. Motor de 440ci completamente nuevo y reacondicionado se convirtió posteriormente a 500ci."
+        },
+        {
+            "id": 4,
+            "image":"./img/mazdaRX72005.jpg",
+            "brand": "Mazda MX-7",
+            "price": "35.000€",
+            "year": "2005",
+            "description":"Todo homologadoSuspensión bc racing. Lip delantero.Taloneras .Alerón cola de pato .Barras antivuelco 6 puntos. Llantas jr12 en 15Stance parts aircups para los baches en parte delantera. Equipo de música soundstream. Bomba de agua. Radiador nuevo. Batería nueva."
+        },
+        {
+            "id": 5,
+            "image":"./img/chevroletImpala1990.png",
+            "brand": "Chevrolet Impala",
+            "price": "17.800€",
+            "year": "1995",
+            "description":"Original 23.620 millas (37.800 km.). Del segundo propietario y está en perfecto estado. Por supuesto, también todavía con la primera pintura y se incluye el historial completo desde el día 1. No encontrarás fácilmente uno más genuino. Un artículo único para el coleccionista de muscle cars."
+        },
+        {
+            "id": 6,
+            "image":"./img/toyotaCelica1996.png",
+            "brand": "Toyota Celica",
+            "price": "20.000€",
+            "year": "1999",
+            "description":"El coche tema de mecanica va muy bien, el exterior hay que hacerle unos arreglillos, tiene tramo final hecho homlogado. Llantas alpha romeo en 17 pulgadas. Altavoces cambiados marca pioner, radio canbiada y pomo sparco, kit de distribucion hecha a los 166000 y el kit de embrague hecho a los 174000, liquidos al dia. Interior en buen estado. Con piezas de serie, otro aleron, y llantas originales del coche."
+        },
+        {
+            "id": 7,
+            "image":"./img/mazdaMiata1990.jpg",
+            "brand": "Mazda Miata",
+            "price": "25.900€",
+            "year": "1995",
+            "description":"Un Miata americano del año 1990. El kilometraje indicado es millas. Mayormente en estado original, incluidas las partes de la carrocería y la pintura. Por supuesto, hay defectos visuales, pero técnicamente todo parece estar bien, ni siquiera es necesario quitar el airbag. En mayo se cambiaron la bomba de agua, la correa de distribución, la bobina de encendido, el cable de encendido, las bujías y la junta de culata."
+        },
+        {
+            "id": 8,
+            "image":"./img/mitsubishiLancerEvolution1994.jpg",
+            "brand": "Mitsubishi LANCER EVO",
+            "price": "47.600",
+            "year": "2002",
+            "description":"Motor nuevo (1.000 km después del rodaje) y puesta a punto Ohlins y con infinidad de recambios originales para volver a ponerlo de serie. Fabricado por Tremauto Racing, el coche está en perfecto estado, muy poco uso, con todas las piezas originales aún en la caja."
+        },
+        {
+            "id": 9,
+            "image":"./img/toyotaSupra1997.jpg",
+            "brand": "Toyota Supra",
+            "price": "119.000 €",
+            "year": "1997",
+            "description":"Intercooler y admision greddy. Radiador de agua de aluminio. Electroventilador con soporte de aluminio. Rodamientos traseros SKF nuevos. Silentblocks del diferencial nuevos de poliuretano. Sistema de control secuencial de los turbos renovado asi como todos los manguitos de vacio y agua. Bujias ngk nuevas, bomba de agua nueva."
+        },
+        {
+            "id": 10,
+            "image":"./img/subaruImpreza2003",
+            "brand": "Subaru Impreza",
+            "price": "39.990€",
+            "year": "2003",
+            "description":"Vehículo absolutamente impecable en estado totalmente original. Tiene tan sólo 65.900 kilómetros y de único propietario entre 2008 y 2023. Asientos deportivos tipo bucket STI, faros de xenón con lavafaros, asiento calefactado, climatizador, 4x4, regulador de diferencial, llantas de aleación en color dorado, pintura azul metalizado. En estado completamente de capricho."
+        },
+        {
+            "id": 11,
+            "image":"./img/hondaCivic1998.png",
+            "brand": "Honda Civic",
+            "price": "18.000€",
+            "year": "2007",
+            "description":"Discos y pastillas delanteras, filtro de aire, filtro de polen, filtro de gasolina bosh, aceite 10w40 Castrol Magnatec y filtro de aceite bosh, neumáticos a 50%, luna delantera cambiada en carglas, matrículas acrílicas nuevas, escobillas limpiaparabrisas, cables de bujías, bujías, amortiguadores maletero,  alineación de dirección, termostato, liquido refrigerante, sensor encendido ventilador, discos y pastillas traseras, aceite caja de cambios."
+        },
+        {
+            "id": 11,
+            "image":"./img/acuraNSX1991.png.png",
+            "brand": "Honda/Acura NSX",
+            "price": "18.600€",
+            "year": "1991",
+            "description":"Un ícono de los años 90 y 2000 ¡El primer deportivo con carrocería completa de aluminio! Un superdeportivo que fue desarrollado y perfeccionado a finales de los años 80 para poder competir en la clase magistral con Ferrari, Lamborghini y compañía."
+        }
+    ]    
+
+}
