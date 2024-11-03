@@ -1,7 +1,15 @@
 header{
-    text-align: center;
-    font-size: 30px;
-    font-family: monospace;
+    display: flex;
+    justify-content: center;
+    
+}
+
+body{
+    background: linear-gradient(90deg, rgba(0,0,0,1) 60%, rgba(159,0,0,0.969152626871061) 81%);
+}
+
+.rcsBanner{
+    width: 900px;
 }
 
 .carsCards{
@@ -9,20 +17,29 @@ header{
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-around;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    background-color: red;
-    border: 1px blue;
+    background: linear-gradient(90deg, rgba(0,0,0,1) 60%, rgba(159,0,0,0.969152626871061) 81%);
     border-radius: 8px;
     padding: 20px;
+    font-family: monospace;
+    row-gap: 20px;
+    font-size: 20px;
+}
+
+.footerInfo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+
+.rcsLogo{
+    width: 200px;
+    height: 200px;
 }
 
 .gitIcons{
-    width: 25px;
-    height: 25px;
-
-}
-.rcsLogo{
-    width: 300px;
-    height: 300px;
+    display: flex;
+    width: 60px;
+    height: 60px;
+    padding: 10px;
 }

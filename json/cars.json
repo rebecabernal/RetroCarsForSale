@@ -2,10 +2,10 @@
     "cars" :[
         {
             "id": 1,
-            "image":"./json/img/nissanSkylineR341999.jpg",
+            "image":"./json/img/nissanSkyline.jpg",
             "brand": "Nissan Skyline R34 GTR ",
             "price": "100.190€",
-            "year": "1999",
+            "year": "2000",
             "description":"El legendario Nissan Skyline R34 GTR. Un coche que sube de valor a una velocidad asombrosa. No hay mejor manera de invertir su dinero que esta. Este es quizás uno de los R34 GTR Vspec con mejor precio del mercado en estos días. ¡Este modelo es LEGAL en EE. UU. y tiene muchas piezas costosas!"
         },
         {
@@ -30,7 +30,7 @@
             "brand": "Mazda MX-7",
             "price": "35.000€",
             "year": "2005",
-            "description":"Todo homologadoSuspensión bc racing. Lip delantero.Taloneras .Alerón cola de pato .Barras antivuelco 6 puntos. Llantas jr12 en 15Stance parts aircups para los baches en parte delantera. Equipo de música soundstream. Bomba de agua. Radiador nuevo. Batería nueva."
+            "description":"Todo homologado Suspensión bc racing. Lip delantero.Taloneras .Alerón cola de pato .Barras antivuelco 6 puntos. Llantas jr12 en 15Stance parts aircups para los baches en parte delantera. Equipo de música soundstream. Bomba de agua. Radiador nuevo. Batería nueva."
         },
         {
             "id": 5,
@@ -50,7 +50,7 @@
         },
         {
             "id": 7,
-            "image":"./json/img/mazdaMiata1990.jpg",
+            "image":"./json/img/mazdaMiata1995.jpg",
             "brand": "Mazda Miata",
             "price": "25.900€",
             "year": "1995",
@@ -74,7 +74,7 @@
         },
         {
             "id": 10,
-            "image":"./json/img/subaruImpreza2003",
+            "image":"./json/img/subaruImpreza2003.jpg",
             "brand": "Subaru Impreza",
             "price": "39.990€",
             "year": "2003",
@@ -90,7 +90,7 @@
         },
         {
             "id": 12,
-            "image":"./json/img/acuraNSX1991.png.png",
+            "image":"./json/img/acuraNSX1991.png",
             "brand": "Honda/Acura NSX",
             "price": "18.600€",
             "year": "1991",

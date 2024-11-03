@@ -1,8 +1,8 @@
-const requestURL = '../json/cars.json';
+const requestURL = './json/cars.json';
 
 async function fetchCarsJson(){
+    const response = await fetch(requestURL);
     try{
-        const response = fetch(requestURL);
         if (!response.ok) {
             throw new Error(`Error en la petición al Json ${response.status}`);
         }
@@ -12,11 +12,12 @@ async function fetchCarsJson(){
         console.error('Error al obetener los coches de la Api : ', error);
         return null;
     }
+   
 }
 
 function createCarsCard ({id, brand, image, price, year, description}){
     return `
-        <div class="card" style="width: 18rem;">
+        <div class="card" style="width: 700px;">
             <img src="${image}" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">${id} - ${brand}</h5>
