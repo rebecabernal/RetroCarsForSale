@@ -1,12 +1,12 @@
 const requestURL = '../json/index.json';
 
-async function fetchCarsJson(){
+function fetchCarsJson(){
     try{
-        const response = await fetch(requestURL);
+        const response = fetch(requestURL);
         if (!response.ok) {
             throw new Error(`Error en la petición al Json ${response.status}`);
         }
-        return await response.json();
+        return response.json();
     }
     catch (error){
         console.error('Error al obetener los coches de la Api : ', error);
@@ -30,9 +30,9 @@ function createCarCard ({brand, image, price, year, description}){
 `;
 }
 
-async function displayCars() {
+function displayCars() {
     const carsSection = document.getElementById('carSection');
-    const carsData = await fetchCarsJson();
+    const carsData = fetchCarsJson();
 
     if (carsData && carsData.cars){
         const cardsCars = carsData.cars.map(createCarCard).join('');
