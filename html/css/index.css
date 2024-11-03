@@ -4,13 +4,17 @@ header{
     font-family: monospace;
 }
 
-.cardsCars{
+.carsCards{
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-around;
     margin-top: 10px;
     margin-bottom: 10px;
+    background-color: red;
+    border: 1px blue;
+    border-radius: 8px;
+    padding: 20px;
 }
 
 .gitIcons{
