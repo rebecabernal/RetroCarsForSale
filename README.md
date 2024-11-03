@@ -1,4 +1,4 @@
-git
+
 ## Retro Cars For Sale (RCS)
 
 -  Somos un equipo de 5 personas, aprendiendo sobre desarrollo y programación en general. Nuestro proyecto de equipo es crear una empresa y tienda que venda coches antiguos, de los años 70-80-90. 
