@@ -17,7 +17,7 @@ async function fetchCarsJson(){
 
 function createCarsCard ({id, brand, image, price, year, description}){
     return `
-        <div class="card" style="width: 700px;">
+        <div class="card" style="width: 550px;">
             <img src="${image}" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">${id} - ${brand}</h5>
