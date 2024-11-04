@@ -14,10 +14,12 @@
 
 ## La empresa
 
-
 ## Retro Cars for Sale (CRS)
 Creemos que la idea de vehículos antiguos en esta época podría regresar el amor y la pasión por el mundo del motor. Nuestra deber es tener y mantener una buena relación por nuestros clientes y que todo el mundo sea tratado con el mismo trato.
 
+---
+![image](https://github.com/user-attachments/assets/b8822c45-896e-4409-a442-6a52fd91ed0d)
+---
 
 ## Contactos:
 - jonathan19.jtv@gmail.com
